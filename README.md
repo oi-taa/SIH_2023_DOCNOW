@@ -1,10 +1,10 @@
 # SIH_2023_DOCNOW
 # docnow
 ## Project Information
-Project Name: DOCNOW
-Group Name: Billingway
-Video Link:
-PPT Link: https://docs.google.com/presentation/d/1MsStruORzHQzfo5sxO0ESVPIr2aTJ-8-/edit?pli=1#slide=id.p1
+- Project Name: DOCNOW
+- Group Name: Billingway
+- Video Link:
+- PPT Link: https://docs.google.com/presentation/d/1MsStruORzHQzfo5sxO0ESVPIr2aTJ-8-/edit?pli=1#slide=id.p1
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
