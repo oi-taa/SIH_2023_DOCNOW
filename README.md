@@ -1,6 +1,6 @@
 # SIH_2023_DOCNOW
 # docnow
-# Project Information
+## Project Information
 Project Name: DOCNOW
 Group Name: Billingway
 Video Link:
