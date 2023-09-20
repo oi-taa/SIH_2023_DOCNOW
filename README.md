@@ -2,7 +2,7 @@
 # docnow
 ## Project Information
 - Project Name: DOCNOW
-- Group Name: Billingway
+- Team Name: Billingway
 - Video Link: https://drive.google.com/file/d/1zn89YqFm5Vq-KoVI6CW-l5jDrLKKTXoX/view?usp=sharing
 - PPT Link: https://docs.google.com/presentation/d/1MsStruORzHQzfo5sxO0ESVPIr2aTJ-8-/edit?pli=1#slide=id.p1
 ### Table of contents
